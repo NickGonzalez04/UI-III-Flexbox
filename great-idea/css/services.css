@@ -68,3 +68,45 @@ h1, h2, h3, h4, h5 {
 *{
 	margin: 80px;
 }
+
+.container .anchor {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	
+}
+h2{
+    font: 60px;
+}
+
+a{
+	padding-top: 20px;
+	text-decoration: none;
+	color: black;
+	}
+ .service-img{
+        width: 95%;
+    }
+ .ser-box{
+        width: 90%;
+        display:flex;
+        flex-direction: row;
+    }
+
+.box-1{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    width: 32%;
+    
+}
+
+
+.Faq{
+    width: 95%;
+    margin: 80px;
+}
+
+.faq-info{
+    display:flex;
+}
